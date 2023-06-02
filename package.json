@@ -12,6 +12,7 @@
   "dependencies": {
     "@mdi/font": "^7.2.96",
     "dotenv": "^16.1.1",
+    "feather-icons": "^4.29.0",
     "pinia": "^2.0.36",
     "vee-validate": "^4.9.5",
     "vue": "^3.3.4",
